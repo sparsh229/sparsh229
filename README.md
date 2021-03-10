@@ -1,7 +1,7 @@
 <h3 align="center"> Hi there! My name is Sparsh Gupta 👋 </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/sparshg22"><img src="/images/linkedin.png" width="30px" height="30px"></a>
+  <a href="www.linkedin.com/in/sparshg22"><img src="https://banner2.cleanpng.com/20180320/kgq/kisspng-linkedin-logo-computer-icons-business-symbol-linkedin-icon-5ab176563be596.8497903315215796062453.jpg" width="30px" height="30px"></a>
 </p>
 
 -----
