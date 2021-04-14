@@ -1,7 +1,4 @@
 <h3 align="left"> Hi there! My name is Sparsh Gupta 👋 </h3>
-<h3 align="left"> I am currently working as a technial writer at GeeksforGeeks </h3>
-<h4 align="left"> Here are links for my publiseh </h4>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/sparshg22/"><img src="https://cdn.iconscout.com/icon/free/png-256/linkedin-208-916919.png" width="30px" height="30px"></a>
 </p>
